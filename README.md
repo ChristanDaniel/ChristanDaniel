@@ -3,11 +3,12 @@
 ### Hey! Welcome to my profile! 👋😄
 <span>My name is <strong> Christian Daniel</strong>, I'm currently learning this beautiful world of Front-End!🖥🙆‍♂</span> 
 
-<h1>
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</h1>
+
+  <img align='left' alt='HTML5' width='30px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+  <img align='left' alt='CSS3' width='30px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+  <img align='left' alt='SASS' width='30px' src="https://img.icons8.com/color/48/000000/sass.png"/>
+ 
+ <br />
 
 <h3>
   <p>Portfolio </p> <br />
