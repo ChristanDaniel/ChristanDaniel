@@ -5,7 +5,7 @@
 
 
 ## Languages and tools
-<h1>
+<h1 align-items="center" >
   <img align='left' alt='HTML5' width='35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   <img align='left' alt='CSS3' width='35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
   <img align='left' alt='SASS' width='35px' src="https://img.icons8.com/color/48/000000/sass.png"/>
@@ -13,7 +13,7 @@
   <img align='left' alt='JavaScript' width='35px' src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img align='left' alt='TypeScript' width='35px' src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img align='left' alt='React' width='35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-  <img align='left' alt='Next' width='35px' src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"/>
+  <img align='left' alt='Next' width='31px' src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"/>
   <br />
  </h1>
  
