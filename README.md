@@ -1,6 +1,6 @@
 <img align="right"  src="https://ik.imagekit.io/hzqr8aao8im/.ilustracao-do-conceito-de-digitacao-de-codigo_114360-3581_u9DQGXWme.jpg"  />
 
-### Hey! Welcome to my profile! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px"> 😄
+### Hey! Welcome to my profile! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px">😄
 <span>My name is <strong> Christian Daniel</strong>, I'm currently learning this beautiful world of Front-End!🖥🙆‍♂</span> 
 
 
@@ -18,8 +18,20 @@
  </h1>
  
 <h3>
-  <p>Portfolio </p> <br />
- <img src="https://img.shields.io/badge/-Christian%20Daniel-blue"/>
+  <p>Portfolio </p>
+  <img src="https://img.shields.io/badge/-Christian%20Daniel-blue"/>
 </h3
+  
+  ## 💻 &nbsp;Social Links
+  <br />
+ 
+<p align="left" style="background:yellow">
+  <a href="https://linkedin.com/in/christian-daniel-841921210" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-ChristianDaniel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/christian.daniel021" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-ChristianDaniel-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+</p>
 
 
