@@ -1,10 +1,10 @@
 <img align="right"  src="https://ik.imagekit.io/hzqr8aao8im/.ilustracao-do-conceito-de-digitacao-de-codigo_114360-3581_u9DQGXWme.jpg"  />
 
-### Hey! Welcome to my profile! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px">😄
-<span>My name is <strong> Christian Daniel</strong>, I'm currently learning this beautiful world of Front-End!🖥🙆‍♂</span> 
+### Hey! Seja bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px">😄
+<span>Meu nome é <strong> Christian Daniel</strong>, Atualmente estou aprendendo desenvolvimento web!🖥🙆‍♂</span> 
 
 
-## Languages and tools
+## Linguagens e ferramentas
 <h1 align-items="center" >
   <img align='left' alt='HTML5' width='35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   <img align='left' alt='CSS3' width='35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -19,7 +19,9 @@
  
 <h3>
   <p>Portfolio </p>
-  <img src="https://img.shields.io/badge/-Christian%20Daniel-blue"/>
+  <a href="https://christian-daniel.vercel.app/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-ChristianDaniel-05122A?style=flat&logo=portfolio" alt="Christian-Daniel"/>
+  </a>
 </h3
   
   ## 💻 &nbsp;Social Links
