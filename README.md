@@ -4,7 +4,7 @@
 <span>Meu nome é <strong> Christian Daniel</strong>, Atualmente estou aprendendo desenvolvimento web!🖥🙆‍♂</span> 
 
 
-## Linguagens e ferramentas
+## 🔗 Linguagens e ferramentas
 <h1 align-items="center" >
   <img align='left' alt='HTML5' width='35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   <img align='left' alt='CSS3' width='35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -20,7 +20,7 @@
 <h3>
   <p>Portfolio </p>
   <a href="https://christian-daniel.vercel.app/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-ChristianDaniel-05122A?style=flat&logo=portfolio" alt="Christian-Daniel"/>
+    <img align="center" src="https://img.shields.io/badge/-</> Christian Daniel-05122A?style=flat&logo=portfolio" alt="Christian-Daniel"/>
   </a>
 </h3
   
