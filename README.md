@@ -1,6 +1,6 @@
 <img align="right"  src="https://ik.imagekit.io/hzqr8aao8im/.ilustracao-do-conceito-de-digitacao-de-codigo_114360-3581_u9DQGXWme.jpg"  />
 
-### Hey! Seja bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px">😄
+### Hey! Seja bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="24px" height="24px">😄
 <span>Meu nome é <strong> Christian Daniel</strong>, sou desenvolvedor web, atualmente me especializando em front-end! 🖥️</span> 
 
 
