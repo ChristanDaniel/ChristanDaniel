@@ -1,11 +1,11 @@
-<img align="right"  src="https://ik.imagekit.io/hzqr8aao8im/.ilustracao-do-conceito-de-digitacao-de-codigo_114360-3581_u9DQGXWme.jpg"  />
+<img align="right" style="position: relative; z-index: 10;" src="https://github.com/user-attachments/assets/e37606b6-8b1f-4b84-8748-7435d09e6327" />
 
 ### Hey! Seja bem vindo! 👋 😄
 <span>Meu nome é <strong> Christian Daniel</strong>, sou desenvolvedor web, atualmente me especializando em front-end! 🖥️</span> 
 
 
-## 🔗 Linguagens e ferramentas
-<h1 align-items="center" >
+### 🔗 Linguagens e ferramentas
+<div>
   <img align='left' alt='HTML5' width='35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   <img align='left' alt='CSS3' width='35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
   <img align='left' alt='SASS' width='35px' src="https://img.icons8.com/color/48/000000/sass.png"/>
@@ -15,7 +15,9 @@
   <img align='left' alt='React' width='35px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
   <img align='left' alt='Next' width='31px' src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"/>
   <br />
- </h1>
+ </div>
+  <br />
+
  
 <h3>
   <p>Portfolio </p>
